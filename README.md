@@ -6,4 +6,3 @@ Actualmente me encuentro realizando un curso de AWS para a fin de año poder cer
 Programo con los frameworks laravel y node.js con express utilizando mysql como gestor de base de datos. Aunque pase por diversos lenguajes de programacion como python, java, c++. 
 
 Si, cuando programo se me mezclan los lenguajes jajaj.
-![Imagen de WhatsApp 2025-04-01 a las 12 37 29_7e0acf70](https://github.com/user-attachments/assets/8742cd4f-e750-449e-ab41-a150a05d3a5c)
